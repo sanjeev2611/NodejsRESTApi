@@ -1,0 +1,2 @@
+C:\Practice\MyNotes\MyNotes\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Practice\MyNotes\MyNotes\obj\Debug\MyNotes.njsprojAssemblyReference.cache

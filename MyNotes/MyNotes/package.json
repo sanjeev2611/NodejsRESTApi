@@ -1,0 +1,12 @@
+{
+  "name": "my-notes",
+  "version": "0.0.0",
+  "description": "MyNotes",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "mssql": "^5.1.0"
+  }
+}
